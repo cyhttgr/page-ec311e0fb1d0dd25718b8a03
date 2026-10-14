@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-5897d1eb72.shaofusheng.cn/sitemap.xml
